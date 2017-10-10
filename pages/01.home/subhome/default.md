@@ -1,5 +1,6 @@
 ---
 title: SubHome
+published: true
 visible: true
 access:
     site.login: false
