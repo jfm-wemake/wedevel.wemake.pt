@@ -1,6 +1,9 @@
 ---
 title: SubHome
 published: true
+taxonomy:
+    tag:
+        - teste
 visible: true
 access:
     site.login: false
