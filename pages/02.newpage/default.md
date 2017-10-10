@@ -1,6 +1,8 @@
 ---
 title: NewPage
 taxonomy:
+    category:
+        - news
     tag:
         - core
         - design
