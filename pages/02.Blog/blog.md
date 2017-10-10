@@ -1,5 +1,5 @@
 ---
-title: NewPage
+title: Blog
 published: true
 taxonomy:
     category:
