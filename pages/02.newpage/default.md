@@ -1,5 +1,6 @@
 ---
 title: NewPage
+published: true
 taxonomy:
     category:
         - news
